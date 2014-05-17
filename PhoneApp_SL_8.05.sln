@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp_SL_8.05", "PhoneApp_SL_8.05\PhoneApp_SL_8.05.csproj", "{D66F2E67-0007-4F15-9B83-62035C230FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+		WP8.1 Debug|Any CPU = WP8.1 Debug|Any CPU
+		WP8.1 Debug|ARM = WP8.1 Debug|ARM
+		WP8.1 Debug|x86 = WP8.1 Debug|x86
+		WP8.1 Release|Any CPU = WP8.1 Release|Any CPU
+		WP8.1 Release|ARM = WP8.1 Release|ARM
+		WP8.1 Release|x86 = WP8.1 Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|ARM.Build.0 = Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|x86.ActiveCfg = Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|x86.Build.0 = Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Debug|x86.Deploy.0 = Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|ARM.ActiveCfg = Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|ARM.Build.0 = Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|ARM.Deploy.0 = Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|x86.ActiveCfg = Release|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|x86.Build.0 = Release|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.Release|x86.Deploy.0 = Release|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|Any CPU.ActiveCfg = WP8.1 Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|Any CPU.Build.0 = WP8.1 Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|Any CPU.Deploy.0 = WP8.1 Debug|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|ARM.ActiveCfg = WP8.1 Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|ARM.Build.0 = WP8.1 Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|ARM.Deploy.0 = WP8.1 Debug|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|x86.ActiveCfg = WP8.1 Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|x86.Build.0 = WP8.1 Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Debug|x86.Deploy.0 = WP8.1 Debug|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|Any CPU.ActiveCfg = WP8.1 Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|Any CPU.Build.0 = WP8.1 Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|Any CPU.Deploy.0 = WP8.1 Release|Any CPU
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|ARM.ActiveCfg = WP8.1 Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|ARM.Build.0 = WP8.1 Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|ARM.Deploy.0 = WP8.1 Release|ARM
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|x86.ActiveCfg = WP8.1 Release|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|x86.Build.0 = WP8.1 Release|x86
+		{D66F2E67-0007-4F15-9B83-62035C230FF7}.WP8.1 Release|x86.Deploy.0 = WP8.1 Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
